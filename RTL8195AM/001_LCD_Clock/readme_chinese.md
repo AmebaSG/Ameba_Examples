@@ -1,7 +1,7 @@
 # LCD 24H Clock
-这个例程式专用于 Realtek Ameba RTL8195. Ameba RTL8195 板子是通过 Arduino IDE 烧录进程序并基于 I2C 协议连接到 LCD 屏幕.
+这个例程专用于 Realtek Ameba RTL8195. Ameba RTL8195 板子是通过 Arduino IDE 烧录进程序并基于 I2C 协议连接到 LCD 屏幕.
 
-24小时时钟通过小时,分钟和秒钟来及时24个小时. 每次经过24小时, 系统都会重新启动.
+24小时时钟通过小时, 分钟和秒钟来计时24个小时. 每次经过24小时, 系统都会重新启动.
 
 
 # 软件编程
