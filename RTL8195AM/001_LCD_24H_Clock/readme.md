@@ -10,6 +10,6 @@ The codes only uploads to RTL8195 by Arduino IDE
 Please refer to LCD_clock.ino
 
 # Hardware connections
-LCD modle is LCD 1602 with I2C
+LCD screen is LCD 1602 with I2C
 
 Please refer to Hardware connection.png
