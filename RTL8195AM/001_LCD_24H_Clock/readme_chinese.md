@@ -16,7 +16,7 @@ LCD 的型号是 LCD 1602 with I2C
 请参考文件 Hardware connection.png
 
 
-# RTL8710AF_LiquidCrystal_I2C-library-master.zip 
+# RTL8195AM_LiquidCrystal_I2C-library-master.zip 
 
 这个 .ZIP 文件是启动 I2C LCD 的库. 在启动 LCD 前请安装这个库. 安装步骤请参考以下. 
-打开 LCD_clock.ino, 执行" sketch/Include Library/Add .ZIP Library " 然后选择 "RTL8710AF_LiquidCrystal_I2C-library-master.zip "
+打开 LCD_clock.ino, 执行" sketch/Include Library/Add .ZIP Library " 然后选择 "RTL8195AM_LiquidCrystal_I2C-library-master.zip "
