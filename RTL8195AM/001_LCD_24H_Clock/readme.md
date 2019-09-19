@@ -13,3 +13,7 @@ Please refer to LCD_clock.ino
 LCD screen is LCD 1602 with I2C
 
 Please refer to Hardware connection.png
+
+# RTL8710AF_LiquidCrystal_I2C-library-master.zip 
+This is a ZIP library for i2C LCD screen. The ZIP library must be installed before using the LCD. Please refer to the following steps for install the library. 
+Open the LCD_clock.ino, go to " sketch/Include Library/Add .ZIP Library " and chose "RTL8710AF_LiquidCrystal_I2C-library-master.zip "
