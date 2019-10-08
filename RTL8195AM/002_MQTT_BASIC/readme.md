@@ -1,4 +1,4 @@
-# MQTT Demo with Ameba RTL8195
+# MQTT
 
 This example is a variation to the original “mqtt basic” example that comes with the Arduino package. In this example, simple passive components are used to aid in demonstrating the power of bidirectional communication of MQTT protocol which is widely used in modern IOT applications for its advantages in speedy response and lightweight.
 
