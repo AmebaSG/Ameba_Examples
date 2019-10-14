@@ -28,11 +28,11 @@ int ledState = 0;
 
 // Update these with values suitable for your network.
 
-char ssid[] = "RealEZ";     // your network SSID (name)
-char pass[] = "RealEasy";  // your network password
+char ssid[] = "your wifi ssid";     // your network SSID (name)
+char pass[] = "your wifi password";  // your network password
 int status  = WL_IDLE_STATUS;    // the Wifi radio's status
 
-char mqttServer[]     = "172.25.24.43";
+char mqttServer[]     = "your mqtt server public ip address";//if unavailable, use "mqtt.eclipse.org" instead. beware that this is a free mqtt server thus unstablity is expected sometimes
 char clientId[]       = "amebaClient";
 char publishTopic[]   = "outTopic";
 char publishPayload_1[] = "LED is ON";
