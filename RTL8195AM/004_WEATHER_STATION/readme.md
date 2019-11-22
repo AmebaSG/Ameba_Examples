@@ -16,15 +16,13 @@ With this smart weather station, you may,
 
 Of course, there is always room for creativity.  Imagine your weather station which is safely stationed at home and detects that humidity is higher than 80%, this could be because it is raining, and you forgot to close the window. Now if you happen to have installed a smart windows system, then you may ask Ameba to send a close-all-windows command via MQTT to prevent your room from getting completely wet.
 
-You are also more than welcome to join our online community to meet more makers or raise a question you faced in your own DIY project.
+# Hardware
+Ameba 1 RTL8195        x1
+DHT sensor(3 pins)     x1
+Jumper wires           x7
+LCD (I2C)              x1
 
-Official pages
-https://www.amebaiot.com.cn/en/ 
-https://www.amebaiot.com/en/  
-Facebook pages
-https://www.facebook.com/groups/AmebaIoTWW/  
-https://www.facebook.com/groups/AmebaIoT/  
-YouTube channel, 
-https://www.youtube.com/channel/UCplqTUNYZEoIKs0nAWf9DCQ 
-BiliBili channel,
-https://space.bilibili.com/457777430 
+# Software
+1. upload source code to your Ameba1 RTL8195 board using arduino IDE
+2. Insatll a MQTT client App on your smart device (android/iOS)
+3. Connect to your MQTT server by keying in the correct servre address and topic that you specified in the code
