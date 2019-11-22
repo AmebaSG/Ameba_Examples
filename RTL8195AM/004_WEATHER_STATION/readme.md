@@ -18,8 +18,11 @@ Of course, there is always room for creativity.  Imagine your weather station wh
 
 # Hardware
 Ameba 1 RTL8195        x1
+
 DHT sensor(3 pins)     x1
+
 Jumper wires           x7
+
 LCD (I2C)              x1
 
 # Software
