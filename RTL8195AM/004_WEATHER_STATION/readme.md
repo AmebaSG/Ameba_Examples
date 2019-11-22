@@ -4,7 +4,9 @@ If you have watched our previous demo videos, you should have no problem underst
 1.	LCD 24H Clock 
 2.	MQTT 
 3.	DHT+MQTT 
+
 (https://github.com/Realtek-AmebaApp/Ameba_Examples/tree/master/RTL8195AM)
+
 The key to integrate these 3 examples successfully is to make sure that you have set up your MQTT server correctly and note that here we are using a different set of MQTT topics (“dht_data” and “dht_status”). Also, when connect DHT sensor, D13 pin is used as data input pin.
 
 With this smart weather station, you may,
