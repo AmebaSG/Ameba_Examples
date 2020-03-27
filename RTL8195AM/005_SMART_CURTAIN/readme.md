@@ -14,7 +14,7 @@ With this smart curtain system, you may,
 3.	Link with the previous weather station project and automate your room from there
 
 # Hardware
-
+## List of hardware needed,
 Ameba 1 RTL8195AM        x1
 
 Servo motor		         x1
