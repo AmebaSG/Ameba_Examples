@@ -27,6 +27,8 @@ DIY materials            x3
 
 
 Hardware connection can be found in this Github folder, for the window, you may use a Lego house as substitute or simply build one using plywood or hard form board, the exact structure can also be found in this folder.
+![screenshot](SmartCurtainSystem_Connection.png)
+![screenshot](miniWindow.jpg)
 
 
 # Software
@@ -36,6 +38,7 @@ https://github.com/ambiot/amb1_arduino/raw/master/Arduino_package/package_realte
 
 2. Upload source code to your Ameba1 RTL8195 board using arduino IDE
 3. Install a MQTT client App on your smart device (android/iOS)
+![screenshot](Android_MQTTclient_APP.jpg)
 
             a)	To use a MQTT service, you must first get a free MQTT server address
     
