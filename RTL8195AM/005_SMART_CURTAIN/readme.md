@@ -1,5 +1,5 @@
 # Smart Curtain System
-![screenshot](RTL8195AM/005_SMART_CURTAIN/logo_smartCurtain.png)
+![screenshot](logo_smartCurtain.png)
 
 This project is the second one in the new IOT project series on Ameba RTL8195AM Dev. Board.
 
