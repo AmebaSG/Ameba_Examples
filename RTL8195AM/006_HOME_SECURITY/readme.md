@@ -9,12 +9,12 @@ With this home security system, you will definitely be alarmed when your window/
 Of course, this project has left rooms to add your own logic to it. For example, sending MQTT messages to your phone to alert you, or to an IP camera to capture the image of the thief.
 
 # Hardware Preparation
-Ameba1 RTL8195AM  x2
-Buzzer            x1
-LED (red)         x1
-Reed switch       x1
-Magnet            x1
-Jumpers           x6
+- Ameba1 RTL8195AM  x2
+- Buzzer            x1
+- LED (red)         x1
+- Reed switch       x1
+- Magnet            x1
+- Jumpers           x6
 
 As 2 boards are needed to implement this project, there are 2 connection illustration as follows,
 
@@ -27,5 +27,5 @@ https://github.com/ambiot/amb1_arduino/raw/master/Arduino_package/package_realte
 2. Copy the two source code you find in this repository to your Ameba1 RTL8195 boards respectively using arduino IDE
 
 3. In order to connect to WiFi and MQTT server, you need to key in your WiFi SSID, WiFi passowrd, MQTT username and MQTT password,
-   -username:		  same as your amebaiot.com username
-   -password: 		same as your amebaiot.com password
+   - username:		same as your amebaiot.com username
+   - password:   	same as your amebaiot.com password
