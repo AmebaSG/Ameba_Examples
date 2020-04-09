@@ -2,7 +2,7 @@
 ![screenshot](logo_HomeSecurity.png)
 One of the most useful IoT applications is home security. Imagine a thief cutting your security camera wire while trying to break into your house. This won’t happen if your security system goes wireless and smart.
 
-This video demonstrates the capability of Realtek Ameba dev. board to conduct board-to-board communication via MQTT (FREE MQTT broker hosted at cloud.amebaiot.com).
+This project demonstrates the capability of Realtek Ameba dev. board to conduct board-to-board communication via MQTT (FREE MQTT broker hosted at cloud.amebaiot.com).
 
 With this home security system, you will definitely be alarmed when your window/door is opened by the self-invited as the buzzer will make loud irritating noise while red LED flashes continuously.
 
