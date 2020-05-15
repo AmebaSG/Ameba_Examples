@@ -1,4 +1,4 @@
-# ThermoGun
+# ThermoGun🌡🔫
 ![screenshot](thumbnail-2.png)
 With COVID-19 still wreaking havoc globally, causing thousands of deaths, millions hospitalized, any useful medical device is on high demand, especially household medical device like IR non-contact thermometer 🌡🔫. Handheld thermometer usually is on high price point and is hard to come by these days, but the components needed to make thermometer are not that expensive, that give us the perfect reason to DIY one during this lockdown period.
 
