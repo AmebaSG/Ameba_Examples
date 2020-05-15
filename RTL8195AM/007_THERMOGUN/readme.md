@@ -19,7 +19,7 @@ https://www.amebaiot.com/en/cloud-getting-started/
 - 3D printed case (optional)	x1
 
 The circuit connection are as follows,
-![screenshot](ThermoGun_Connection_RTL8710.jpg)
+![screenshot](ThermoGun_Connection_RTL8710.png)
 
 
 # Software Preparation
